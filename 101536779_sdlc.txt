@@ -8,3 +8,4 @@ DevSecOps integrates security checks early in the development cycle.
 Automation and testing reduce errors during deployment and operation.
 DevOps transforms the SDLC with faster releases, better quality, and improved collaboration.
 Companies like Netflix use DevOps to release updates hundreds of times a day.
+Efficient workflows in DevOps lead to significant cost savings in the SDLC.

@@ -7,3 +7,4 @@ The course teaches students to streamline software development and operations wo
 Infrastructure as Code (IaC) is taught using tools like Terraform and Ansible.
 Students learn to implement monitoring and feedback systems using Prometheus and Grafana.
 Hands-on lab exercises help students practice setting up pipelines and containers.
+Students learn to use Git for version control and managing repositories.

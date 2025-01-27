@@ -1,2 +1,3 @@
 COMP 3104 - DevOps for System Administration introduces students to the principles and practices of DevOps, including version control, CI/CD pipelines, and infrastructure as code. The course emphasizes collaboration, automation, and monitoring to streamline software development and operations. Students gain hands-on experience with tools like Git, GitHub Actions, and Docker to prepare for real-world DevOps challenges.
 Students learn to use Git for version control and collaboration.
+The course introduces Continuous Integration and Continuous Delivery (CI/CD).

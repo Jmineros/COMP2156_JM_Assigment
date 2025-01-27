@@ -2,3 +2,4 @@ COMP 3104 - DevOps for System Administration introduces students to the principl
 Students learn to use Git for version control and collaboration.
 The course introduces Continuous Integration and Continuous Delivery (CI/CD).
 Students use tools like Jenkins, Docker, and Kubernetes in labs.
+The course teaches Infrastructure as Code (IaC) using Ansible and Terraform.

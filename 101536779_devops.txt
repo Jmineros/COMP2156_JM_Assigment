@@ -3,3 +3,4 @@ Students learn to use Git for version control and collaboration.
 The course introduces Continuous Integration and Continuous Delivery (CI/CD).
 Students use tools like Jenkins, Docker, and Kubernetes in labs.
 The course teaches Infrastructure as Code (IaC) using Ansible and Terraform.
+The course teaches students to streamline software development and operations workflows.

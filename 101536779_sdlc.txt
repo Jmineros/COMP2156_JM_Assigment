@@ -4,3 +4,4 @@ Automation in DevOps eliminates repetitive tasks, improving efficiency.
 Continuous Delivery automates the deployment process, reducing human error.
 Monitoring provides continuous feedback, ensuring issues are addressed quickly.
 DevOps supports scalable applications, meeting growing user demands.
+DevSecOps integrates security checks early in the development cycle.

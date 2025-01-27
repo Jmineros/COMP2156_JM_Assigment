@@ -1,3 +1,4 @@
 DevOps plays a critical role in the Software Development Lifecycle (SDLC) by fostering collaboration between development and operations teams. It ensures faster delivery of high-quality software through automation and continuous integration/continuous delivery (CI/CD). By breaking down silos, DevOps reduces bottlenecks, improves team communication, and enhances the overall agility of the development process. Key benefits include increased deployment frequency, reduced failure rates, and quicker recovery from incidents.
 DevOps reduces delays, enabling faster delivery of software updates.
 Automation in DevOps eliminates repetitive tasks, improving efficiency.
+Continuous Delivery automates the deployment process, reducing human error.

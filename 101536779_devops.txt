@@ -1,10 +1,12 @@
-COMP 3104 - DevOps for System Administration introduces students to the principles and practices of DevOps, including version control, CI/CD pipelines, and infrastructure as code. The course emphasizes collaboration, automation, and monitoring to streamline software development and operations. Students gain hands-on experience with tools like Git, GitHub Actions, and Docker to prepare for real-world DevOps challenges.
-Students learn to use Git for version control and collaboration.
-The course introduces Continuous Integration and Continuous Delivery (CI/CD).
-Students use tools like Jenkins, Docker, and Kubernetes in labs.
-The course teaches Infrastructure as Code (IaC) using Ansible and Terraform.
-The course teaches students to streamline software development and operations workflows.
-Infrastructure as Code (IaC) is taught using tools like Terraform and Ansible.
-Students learn to implement monitoring and feedback systems using Prometheus and Grafana.
-Hands-on lab exercises help students practice setting up pipelines and containers.
-Students learn to use Git for version control and managing repositories.
+COMP 3104 – DevOps for System Administration is a course designed to introduce students to 
+the principles and practices of DevOps, focusing on automation, continuous integration/continuous 
+deployment (CI/CD), and system administration.
+
+### Key Topics Covered:
+- **Version Control (Git & GitHub)** – Managing source code effectively.
+- **Continuous Integration & Deployment (CI/CD)** – Using tools like GitHub Actions and Jenkins.
+- **Containerization** – Working with Docker and Kubernetes.
+- **Infrastructure as Code (IaC)** – Automating infrastructure provisioning with Terraform and Ansible.
+- **Monitoring & Logging** – Using tools like Prometheus, Grafana, and ELK stack.
+
+The course emphasizes practical hands-on learning through projects and real-world applications.

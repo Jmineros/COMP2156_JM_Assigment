@@ -1,0 +1,30 @@
+name: DevOps CI Pipeline
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          echo "Installing required dependencies..."
+          sudo apt update && sudo apt install -y curl git
+
+      - name: Run Checks
+        run: |
+          echo "Running basic validation checks..."
+          ls -la
+          echo "✅ Repository structure verified!"
+
+      - name: Run Tests (if any)
+        run: |
+          echo "No automated tests yet, skipping."

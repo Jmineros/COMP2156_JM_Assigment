@@ -1,13 +1,22 @@
-# COMP2156_JM_Assigment
+# COMP2156_Group1_Assignment
 
 ## Group Members
 - **Leader:** Joshua Mineros (101536779) - [GitHub](https://github.com/Jmineros)
+- **Member 2:** Yasvi Borad (101511053) - [GitHub](https://github.com/YasviBorad)
 
 ## Project Description
-This project is part of the **COMP 2156 – DevOps for System Administration** course. The assignment focuses on GitHub collaboration, CI/CD pipelines, and branch management.
+This repository hosts the group assignment for COMP2156 DevOps course, focusing on
+collaborative Git workflows, branching strategies, and CI/CD integration.
 
 ## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Jmineros/COMP2156_JM_Assigment.git
-   cd COMP2156_JM_Assigment
+1. Clone the repository.
+2. Switch to your branch using gt checkout STUDENTID-Name.
+3. Install any dependencies as listed.
+
+## CI/CD Pipeline
+The project utilizes GitHub Actions for continuous integration. The workflow is defined
+in .github/workflows/ci.yml.
+
+## Branching Strategy
+Each member has their own branch named STUDENTID-Name. All changes are
+merged into the main branch via Pull Requests.

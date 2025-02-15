@@ -1,0 +1,11 @@
+The COMP3104 – DevOps course is a key component of the fifth semester in George Brown College's three-year Computer Programming and Analysis advanced diploma program (T177). This course is designed to provide students with a comprehensive understanding of DevOps principles and practices, emphasizing the integration of development and operations to enhance the efficiency and quality of software development processes.
+
+Course Objectives:
+
+DevOps Fundamentals: Understand the core concepts and cultural aspects of DevOps, focusing on collaboration between development and operations teams.
+
+Continuous Integration/Continuous Deployment (CI/CD): Learn to implement automated testing and deployment pipelines to facilitate rapid and reliable software releases.
+
+Infrastructure as Code (IaC): Gain proficiency in using tools that allow infrastructure management through code, ensuring consistency and scalability.
+
+Monitoring and Logging: Develop skills to monitor applications and infrastructure, enabling proactive issue detection and resolution.
